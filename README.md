@@ -22,6 +22,7 @@ PowerBI Dashboard 2: [https://app.powerbi.com/links/r3kuNDYWfR?ctid=6d2f8f03-c41
 ![Screenshot](images/Tableau.gif)
 
 ## Problem Statement
+Computer hardware manufacturer is facing issues in terms of their Sales, Profit, Coustomer performance and then how they hire a team of data analysts and how data analysts will first use the Aims Grid to define a problem and define strategy to tackle that problem and then how the work on data discovery. 
 
 ## Approach
 Downloading Dataset from company
